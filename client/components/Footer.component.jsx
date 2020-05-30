@@ -32,11 +32,11 @@ function FooterComponent(props) {
               <div className="text-xl">
                 <i
                   className="fa fa-github  text-gray-900 mr-2"
-                  onClick={open('https://github.com/Routine-App/Routine')}
+                  onClick={() => open('https://github.com/Routine-App/Routine')}
                 />
                 <i
                   className="fa fa-twitter text-blue-500 mr-2"
-                  onClick={open('https://twitter.com/AmeurIdrissi')}
+                  onClick={() => open('https://twitter.com/AmeurIdrissi')}
                 />
               </div>
             </div>
