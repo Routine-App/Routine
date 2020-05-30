@@ -14,7 +14,7 @@ This awesome tool allows developers to graphically create a new project, live mo
 
 ## Screenshots
 
-<table border="3">
+<table border="0">
 <tr>
   <td>
     <img src="Screenshots/HomePage.jpg" height="250" />
