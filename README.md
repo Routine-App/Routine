@@ -25,7 +25,8 @@ This awesome tool allows developers to graphically create a new project, live mo
 </tr>
 <tr>
  <td>
-  <img src="Screenshots/CreateTemplate.jpg" height="250" /></td>
+  <img src="Screenshots/CreateTemplate.jpg" height="250" />
+  </td>  
  <td>
   <img src="Screenshots/GenerateTemplate.jpg" height="250" />
  </td>
