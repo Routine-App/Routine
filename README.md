@@ -12,6 +12,10 @@
 
 This awesome tool allows developers to graphically create a new project, live monitor app performance, add templates to project, and more. This is a pretty big deal, as getting familiar with this tool can make spinning up and maintaining any type of application.
 
+#  What problem does this solve? 
+
+<q>I created Routine because I made lots of projects in javascript and php , I realized I was doing the same set up work every time and so with Routine I can configure a basic file with .yml extension and upload it as template so I can use it the next time.</q>
+
 ## Screenshots
 
 <table border="0">
