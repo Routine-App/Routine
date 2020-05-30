@@ -17,18 +17,18 @@ This awesome tool allows developers to graphically create a new project, live mo
 <table border="0">
 <tr>
   <td>
-    <img src="Screenshots/HomePage.jpg" height="250" />
+    <img src="Screenshots/HomePage.jpg" />
   </td>
   <td>
-   <img src="Screenshots/ImportApp.jpg" height="250" />
+   <img src="Screenshots/ImportApp.jpg" />
  </td>
 </tr>
 <tr>
  <td>
-  <img src="Screenshots/CreateTemplate.jpg" height="250" />
+  <img src="Screenshots/CreateTemplate.jpg" />
   </td>  
  <td>
-  <img src="Screenshots/GenerateTemplate.jpg" height="250" />
+  <img src="Screenshots/GenerateTemplate.jpg" />
  </td>
 </tr>
 </table>
