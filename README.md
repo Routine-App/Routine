@@ -12,6 +12,26 @@
 
 This awesome tool allows developers to graphically create a new project, live monitor app performance, add templates to project, and more. This is a pretty big deal, as getting familiar with this tool can make spinning up and maintaining any type of application.
 
+## Screenshots
+
+<table border="3">
+<tr>
+  <td>
+    <img src="Screenshots/HomePage.jpg" height="250" />
+  </td>
+  <td>
+   <img src="Screenshots/ImportApp.jpg" height="250" />
+ </td>
+</tr>
+<tr>
+ <td>
+  <img src="Screenshots/CreateTemplate.jpg" height="250" /></td>
+ <td>
+  <img src="Screenshots/GenerateTemplate.jpg" height="250" />
+ </td>
+</tr>
+</table>
+
 ## Advantages and use cases
 
 - Manage your local projects
