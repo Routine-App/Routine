@@ -7,6 +7,7 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Routine-App/Routine?style=for-the-badge)
 
 - Website & Documentation: https://bit.ly/3dlfDwm
+- Producthunt: https://www.producthunt.com/posts/routine-app
 - Dev: https://bit.ly/2ZUyzy3
 - Medium: https://bit.ly/2ZRYtCI
 
